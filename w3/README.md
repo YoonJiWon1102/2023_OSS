@@ -5,7 +5,7 @@
 ### 3주차 git
 
 ### 이미지
-![한국항공대학교 로고](../img/kau/kau.png "한국항공대학교")
+![한국항공대로고](https://user-images.githubusercontent.com/127616764/227723076-0594079d-85e3-4052-87ce-0034f61b3bf2.png)
 
 
 ### 링크   
